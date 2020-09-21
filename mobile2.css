@@ -1,0 +1,33 @@
+ #navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+}
+#navbar ul li a{
+    padding: 0.5rem;
+  }
+#navbar ul li a{
+    margin-bottom: 0rem;
+} 
+.card{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:0.75rem;
+}
+.center-img{
+width: 85%;
+}
+.h1-img{
+    width: 45%;
+}
+.img-ilet{
+    width: 30%;
+    height: auto;
+    margin: 1rem;
+}
+.secilet .ilet-bilgi{
+    left: 10%;
+    bottom: 7rem;
+    font-size: 0.75rem;
+}
